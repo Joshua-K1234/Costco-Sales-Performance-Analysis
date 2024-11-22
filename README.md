@@ -26,6 +26,7 @@ Costco sales from 2020 to the end of 2023 shows significant changes, there were 
 
 ### Insights
 
+
 ### Recommendations
 
 [*Link to Tableau*](https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard)
