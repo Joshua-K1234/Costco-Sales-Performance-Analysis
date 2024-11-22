@@ -9,7 +9,8 @@ Costco, a multinational automotive company founded in 1983, specializes in being
     - Show the highest and lowest points of each year for Sales, Profit and Quantity.
     - Highlight Sales and Profit for each subcategory, whilist highlighting subcategories were sales were lower than last year and where profit was lower than last year.
     - Highlight areas where Sales and profit where above and below average for the current year.
-  
+
+### Objectives  
 - **Annual Comparison:**  
   - Showcase total **Sales**, **Profit**, and **Quantity of Sales** for each year, with a year-over-year comparison highlighted using **red** for declines and **blue** for growth.  
 - **Key Performance Indicators:**  
