@@ -6,9 +6,9 @@ Costco, a multinational automotive company founded in 1983, specializes in being
 ### Executive summary
 Costco sales from 2020 to 2023
 
+### Insights
 
-
-
+### Recommendations
 
 
 Notice: This is a hypothetical project analyzing simulated sales data for Costco.
