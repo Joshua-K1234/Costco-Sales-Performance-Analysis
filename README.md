@@ -5,8 +5,11 @@ Costco, a multinational automotive company founded in 1983, specializes in being
 
 ### Objectives
 - Sales Dashboard:
-    - Highlight the Sales, Profit and Quantity of sales for each year, whilist comparing it to its previous year.
+    - Highlight the total <b>Sales, Profit and Quantity of sales<b> for each year, comparing it to its previous year.
     - Show the highest and lowest points of each year for Sales, Profit and Quantity.
+    - Highlight Sales and Profit for each subcategory, whilist highlighting subcategories were sales were lower than last year and where profit was lower than last year.
+    - Highlight areas where Sales and profit where above and below average for the current year.
+
 
 ### Executive summary
 Costco sales from 2020 to the end of 2023 shows significant changes, there were very minor difference in sales from the year 2020 to 2021 to sustained substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
