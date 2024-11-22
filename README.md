@@ -1,4 +1,4 @@
-# CostCo-Sales-Performance-Analysis
+# Costco-Sales-Performance-Analysis
 
 ### Project Background 
 Costco, a multinational automotive company founded in 1983, specializes in being one of the leading global suppliers of groceries. I'm partnering with their sales team to extract insights and deliver recommendations to improve performance across sales and marketing teams.
