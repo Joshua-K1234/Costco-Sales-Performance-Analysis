@@ -15,7 +15,7 @@ Costco, a American multinational corporation founded in 1983, specializes in bei
   - Highlight areas where **Sales** and **Profit** were above or below the average for the current year, emphasizing trends with color coding (**red** for below average, **blue** for above average). 
 
 ### Executive summary
-
+Across the timeframe of 4 years the trend for sales has remained consistent, each year sales is at the lowest point of time at the beginning of the year and reaches its peak at the end of the year. It had a stagnant start with very little difference between sales of 2020 and 2021 followed by healthy growth in each of the subsequent years 2022 and 2023.
 
 
 
