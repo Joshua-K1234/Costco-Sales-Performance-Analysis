@@ -9,7 +9,16 @@ Costco, a multinational automotive company founded in 1983, specializes in being
     - Show the highest and lowest points of each year for Sales, Profit and Quantity.
     - Highlight Sales and Profit for each subcategory, whilist highlighting subcategories were sales were lower than last year and where profit was lower than last year.
     - Highlight areas where Sales and profit where above and below average for the current year.
-
+  
+- **Annual Comparison:**  
+  - Showcase total **Sales**, **Profit**, and **Quantity of Sales** for each year, with a year-over-year comparison highlighted using **red** for declines and **blue** for growth.  
+- **Key Performance Indicators:**  
+  - Identify and display the highest and lowest points of each year for **Sales**, **Profit**, and **Quantity of Sales**.  
+- **Subcategory Insights:**  
+  - Analyze **Sales** and **Profit** for each subcategory.  
+  - Highlight subcategories where **Sales** and **Profit** were lower than the previous year (**red**) and where they showed improvement (**blue**).  
+- **Performance Averages:**  
+  - Highlight areas where **Sales** and **Profit** were above or below the average for the current year, emphasizing trends with color coding (**red** for below average, **blue** for above average). 
 
 ### Executive summary
 Costco sales from 2020 to the end of 2023 shows significant changes, there were very minor difference in sales from the year 2020 to 2021 to sustained substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
