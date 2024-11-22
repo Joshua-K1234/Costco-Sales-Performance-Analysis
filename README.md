@@ -5,7 +5,7 @@ Costco, a multinational automotive company founded in 1983, specializes in being
 
 ### Executive summary
 Costco sales analysis from 2020 to 2023
-(Link to Tableau)[https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard]
+[Link to Tableau](https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard)
 ### Insights
 
 ### Recommendations
