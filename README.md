@@ -21,7 +21,7 @@ Costco, a American multinational corporation founded in 1983, specializes in bei
 
 <img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Relations%20Sales%20Analysis.JPG" alt="final_clusters" width="400"/>
 
-### Insights (2022 vs 2023)
+### Insights
 - **Sales:**
   - Costco sales from 2020 to the end of 2023 started slow, there were very minor difference of -2.8% in sales from the year 2020 to 2021 followed by sustained healthy substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
   - **2020–2021:**  
@@ -36,7 +36,7 @@ Costco, a American multinational corporation founded in 1983, specializes in bei
 - **Quantity:**
   - Costco's quantity of orders from 2020 to 2023 saw a consistent increase each year the increase from 2020 to 2021 was low a 5% but subsequent years had large increase at 23% and 27% respectively.
 
-- **Subcategory's** (Profit and Sales)
+- **Subcategory's** (Profit and Sales, 2022 and 2023 comparison)
   - Tables was the third best in sales in 2023 increasing by a significant margin of 55% compared to its previous year. However as a subcategory it still suffered a lost in profit of $3k, this was the biggest loss of profit in the year. This indicates that the prices for chairs were moved too low so that even with more sales it could not recover its costs made to produce the tables.
   - Copier's has the largest profit of $18K putting it signficantly ahead of all other subcategories with a difference between 2nd and 1st of $8K. It also had a large increase in sales of 89% compared to its previous year.
 <img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Profit%20and%20Sales%20by%20subcategory.JPG" alt="final_clusters" width="400"/>
