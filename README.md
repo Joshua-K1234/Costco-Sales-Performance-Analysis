@@ -15,22 +15,29 @@ Costco, a multinational automotive company founded in 1983, specializes in being
   - Highlight areas where **Sales** and **Profit** were above or below the average for the current year, emphasizing trends with color coding (**red** for below average, **blue** for above average). 
 
 ### Executive summary
-Costco sales from 2020 to the end of 2023 shows significant changes, there were very minor difference in sales from the year 2020 to 2021 to sustained substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
 
-- **2020–2021:**  
-  - The business had small loss in profits of 2.8% going from $484K in Sales to $474K in Sales
 
-- **2021–2023:**  
-  - Following the decline, a clear and consistent upward trend emerged for the years 2021 to 2023.
-  - From 2021 to 2022, sales increased by 30%, reaching $609K. Next from 2022 to 2023, sales increased by 20% to $733K
 
 
 <img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Relations%20Sales%20Analysis.JPG" alt="final_clusters" width="400"/>
 
-### Insights
+### Insights (2022 vs 2023)
+- **Sales:**
+  - Costco sales from 2020 to the end of 2023 shows significant changes, there were very minor difference in sales from the year 2020 to 2021 to sustained substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
 
+  - **2020–2021:**  
+    - The business had small loss in profits of 2.8% going from $484K in Sales to $474K in Sales
+
+  - **2021–2023:**  
+    - Following the decline, a clear and consistent upward trend emerged for the years 2021 to 2023.
+    - From 2021 to 2022, sales increased by 30%, reaching $609K. Next from 2022 to 2023, sales increased by 20% to $733K
+
+- ** Subcategories analysis (Profit and Sales)
+  - Tables was the third best in sales in 2023 increasing by a significant margin of 55% compared to its previous year. However as a subcategory it still suffered a lost in profit of $3k, this was the biggest loss of profit in the year. This indicates that the prices for chairs were moved too low so that even with more sales it could not recover its costs made to produce the tables.
+ 
 
 ### Recommendations
+
 
 [*Link to Tableau*](https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard)
 
