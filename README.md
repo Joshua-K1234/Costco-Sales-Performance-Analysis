@@ -5,7 +5,7 @@ Costco, a multinational automotive company founded in 1983, specializes in being
 
 ### Objectives
 - Sales Dashboard:
-    - Highlight the total <b>Sales, Profit and Quantity of sales<b> for each year, comparing it to its previous year.
+    - Highlight the total <b>Sales, Profit and Quantity of sales</b> for each year, comparing it to its previous year.
     - Show the highest and lowest points of each year for Sales, Profit and Quantity.
     - Highlight Sales and Profit for each subcategory, whilist highlighting subcategories were sales were lower than last year and where profit was lower than last year.
     - Highlight areas where Sales and profit where above and below average for the current year.
