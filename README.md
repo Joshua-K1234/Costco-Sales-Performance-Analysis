@@ -1,7 +1,7 @@
 # Costco-Sales-Performance-Analysis
 
 ### Project Background 
-Costco, a multinational automotive company founded in 1983, specializes in being one of the leading global suppliers of groceries. I'm partnering with their sales team to extract insights and deliver recommendations to improve performance across sales and marketing teams. Our analysis is spread across two dashboards: Sales Dashboard, Customer Dashboard.
+Costco, a American multinational corporation founded in 1983, specializes in being one of the leading global suppliers of groceries. I'm partnering with their sales team to extract insights and deliver recommendations to improve performance across sales and marketing teams. Our analysis is spread across two dashboards: Sales Dashboard, Customer Dashboard.
 
 ### Objectives  
 - **Annual Comparison:**  
@@ -23,14 +23,18 @@ Costco, a multinational automotive company founded in 1983, specializes in being
 
 ### Insights (2022 vs 2023)
 - **Sales:**
-  - Costco sales from 2020 to the end of 2023 shows significant changes, there were very minor difference in sales from the year 2020 to 2021 to sustained substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
-
+  - Costco sales from 2020 to the end of 2023 started slow, there were very minor difference of -2.8% in sales from the year 2020 to 2021 followed by sustained healthy substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
   - **2020–2021:**  
-    - The business had small loss in profits of 2.8% going from $484K in Sales to $474K in Sales
-
+    - The business had small loss in profits of -2.8% going from $484K in Sales to $474K in Sales
   - **2021–2023:**  
     - Following the decline, a clear and consistent upward trend emerged for the years 2021 to 2023.
     - From 2021 to 2022, sales increased by 30%, reaching $609K. Next from 2022 to 2023, sales increased by 20% to $733K
+
+- **Profit:**
+  - Costco's profit from 2020 to 2023 saw a consistent increase each year averaging to 24% Increase in profit per year. 
+
+- **Quantity:**
+  - Costco's quantity of orders from 2020 to 2023 saw a consistent increase each year the increase from 2020 to 2021 was low a 5% but subsequent years had large increase at 23% and 27% respectively.
 
 - **Subcategory's** (Profit and Sales)
   - Tables was the third best in sales in 2023 increasing by a significant margin of 55% compared to its previous year. However as a subcategory it still suffered a lost in profit of $3k, this was the biggest loss of profit in the year. This indicates that the prices for chairs were moved too low so that even with more sales it could not recover its costs made to produce the tables.
