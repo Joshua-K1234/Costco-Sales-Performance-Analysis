@@ -24,7 +24,7 @@ Costco sales from 2020 to the end of 2023 shows significant changes, there were 
   - Following the decline, a clear and consistent upward trend emerged.  
   - Sales increased year-over-year, 2021 to 2022 had a sales of $609K 30% Increase of sales than 2021. 2022 to 2023 had a sales of $733K and a 20$ Increase of sales than 2022.
 
-<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Relations%20Sales%20Analysis.JPG" alt="final_clusters" width="200" height="200"/>
+<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Relations%20Sales%20Analysis.JPG" alt="final_clusters" width="400"/>
 
 ### Insights
 
