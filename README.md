@@ -51,6 +51,8 @@ Across the timeframe of 4 years the trend for sales has remained consistent, eac
  
 
 ### Recommendations
+The profit of tables each year seems to be getting worse and worse. I would recommend seeing if there is anything that can be done to increase the profitablity of tables. They are selling but they are selling at a increasing loss each year. To mitigate losses I would suggest to reduce the production of tables for the year 2024.
+
 
 
 [*Link to Tableau*](https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard)
