@@ -36,9 +36,17 @@ Across the timeframe of 4 years the trend for sales has remained consistent, eac
 - **Quantity:**
   - Costco's quantity of orders from 2020 to 2023 saw a consistent increase each year the increase from 2020 to 2021 was low a 5% but subsequent years had large increase at 23% and 27% respectively.
 
-- **Subcategory's** (Profit and Sales, 2022 and 2023 comparison)
-  - Tables was the third best in sales in 2023 increasing by a significant margin of 55% compared to its previous year. However as a subcategory it still suffered a lost in profit of $3k, this was the biggest loss of profit in the year. This indicates that the prices for chairs were moved too low so that even with more sales it could not recover its costs made to produce the tables.
-  - Copier's has the largest profit of $18K putting it signficantly ahead of all other subcategories with a difference between 2nd and 1st of $8K. It also had a large increase in sales of 89% compared to its previous year.
+- **Subcategory's** (Profit and Sales, 2022 and 2023 comparison highest and lowest profit)
+  - Tables
+    - **Tables** was the third best in sales in 2022 increasing by a significant margin of 55% compared to its previous year. However as a subcategory it still suffered a lost in profit of $3k, this was the **biggest loss of profit** in the year. This indicates that the prices for chairs were moved too low so that even with more sales it could not recover its costs made to produce the tables.
+    - This got worse in 2023 where it had the same sales but an even bigger loss in profit of -$8K, it was also the highest loss in profit for that year.
+  - Copiers
+    - Copier's has the largest profit of $18K putting it signficantly ahead of all other subcategories with a difference between 2nd and 1st of $8K. It also had a large increase in sales of 89% compared to its previous year.
+   
+2022
+<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Profit%20and%20Sales%20by%20subcategory%202022.JPG" alt="final_clusters" width="400"/>
+
+2023
 <img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Profit%20and%20Sales%20by%20subcategory%202023.JPG" alt="final_clusters" width="400"/>
  
 
