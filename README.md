@@ -24,6 +24,7 @@ Across the timeframe of 4 years the trend for sales has remained consistent, eac
 ### Insights
 - **Sales:**
   - Costco sales from 2020 to the end of 2023 started slow, there were very minor difference of -2.8% in sales from the year 2020 to 2021 followed by sustained healthy substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
+  - Sales show seasonality, each year sales is at the lowest point of time at the beginning of the year and reaches its peak at the end of the year.
   - **2020–2021:**  
     - The business had small loss in profits of -2.8% going from $484K in Sales to $474K in Sales
   - **2021–2023:**  
@@ -51,7 +52,7 @@ Across the timeframe of 4 years the trend for sales has remained consistent, eac
  
 
 ### Recommendations
-The profit of tables each year is leading to increasing losses of profit each year. I would recommend seeing if there is anything that can be done to increase the profitablity of tables. They are selling but they are selling at a increasing loss each year. To mitigate losses I would suggest to reduce the production of tables for the year 2024.
+The profit of tables each year is leading to increasing losses of profit each year -3K$ in 2022, -$8K in 2023 with no difference in the quantity of sales in these years. I would recommend seeing if there is anything that can be done to increase the profitablity of tables. They are selling but they are selling at a increasing loss each year. To mitigate losses I would suggest to reduce the production of tables for the year 2024.
 
 
 
