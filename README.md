@@ -39,7 +39,7 @@ Across the timeframe of 4 years the trend for sales has remained consistent, eac
 - **Subcategory's** (Profit and Sales, 2022 and 2023 comparison)
   - Tables was the third best in sales in 2023 increasing by a significant margin of 55% compared to its previous year. However as a subcategory it still suffered a lost in profit of $3k, this was the biggest loss of profit in the year. This indicates that the prices for chairs were moved too low so that even with more sales it could not recover its costs made to produce the tables.
   - Copier's has the largest profit of $18K putting it signficantly ahead of all other subcategories with a difference between 2nd and 1st of $8K. It also had a large increase in sales of 89% compared to its previous year.
-<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Profit%20and%20Sales%20by%20subcategory.JPG" alt="final_clusters" width="400"/>
+<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Profit%20and%20Sales%20by%20subcategory%202023.JPG" alt="final_clusters" width="400"/>
  
 
 ### Recommendations
