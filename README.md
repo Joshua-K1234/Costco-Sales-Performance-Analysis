@@ -1,5 +1,7 @@
 # Costco-Sales-Performance-Analysis
 
+Notice: This is a hypothetical project analyzing simulated sales data for Costco.
+
 ### Project Background 
 Costco, a American multinational corporation founded in 1983, specializes in being one of the leading global suppliers of groceries. I'm partnering with their sales team to extract insights and deliver recommendations to improve performance across sales and marketing teams. Our analysis is spread across two dashboards: Sales Dashboard, Customer Dashboard.
 
@@ -60,4 +62,3 @@ Across the timeframe of 4 years the trend for sales has remained consistent, eac
 
 [*Link to Tableau*](https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard)
 
-Notice: This is a hypothetical project analyzing simulated sales data for Costco.
