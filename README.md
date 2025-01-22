@@ -59,7 +59,7 @@ Across the timeframe of 4 years the trend for sales has remained consistent, eac
 ### Recommendations
 **Reduce the loss of profit:** The profit of tables each year is leading to increasing losses of profit each year -3K$ in 2022, -$8K in 2023 with no difference in the quantity of sales in these years and is also the biggest loss of profit in each of these years. I would recommend seeing if there is anything that can be done to increase the profitablity of tables. To mitigate losses I would suggest to reduce the production of tables for the year 2024 and focus on trying to improve the profit with what's left.
 
-**Keep doing what's profitable:**The subcategory copiers has remained on top by a wide margin in terms of profit, outshining every other subcategory. Focus on sustaining strategies that drive its success.
+**Keep doing what's profitable:** The subcategory copiers has remained on top by a wide margin in terms of profit, outshining every other subcategory. Focus on sustaining strategies that drive its success.
 
 
 
