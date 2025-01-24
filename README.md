@@ -2,7 +2,14 @@
 
 Notice: This is a hypothetical project analyzing simulated sales data for Costco.
 
+<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Dashboard.JPG" alt="Dashboard Image" width="400"/>
+
 [*Here is the link to the dashboard on Tableau*](https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard)
+
+## Thoughts
+I am happy how the dashboard turned out, it uses 2 colours to clearly show postive and negative information about the profit and sales. The components where spread out and the use of tooltips gives an extra level of depth. This dashboard has 2 pages and filters.
+
+# Report
 
 ### Project Background - Scenario
 Costco, a American multinational corporation founded in 1983, specializes in being one of the leading global suppliers of groceries. I'm partnering with their sales team to extract insights and deliver recommendations to improve performance across sales and marketing teams. Our analysis is spread across two dashboards: Sales Dashboard, Customer Dashboard.
