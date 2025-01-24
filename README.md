@@ -21,8 +21,6 @@ Costco, a American multinational corporation founded in 1983, specializes in bei
 ### Key Insights
 Across the timeframe of 4 years the trend for sales has remained consistent, each year sales is at the lowest point of time at the beginning of the year and reaches its peak at the end of the year. It had a stagnant start with very little difference between sales of 2020 and 2021 followed by healthy growth in each of the subsequent years 2022 and 2023.
 
-<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Relations%20Sales%20Analysis.JPG" alt="final_clusters" width="400"/>
-
 ### Insights
 - **Sales:**
   - Costco sales from 2020 to the end of 2023 started slow, there were very minor difference of -2.8% in sales from the year 2020 to 2021 followed by sustained healthy substainal growth from 2021 to 2023 a growth of sales averaging 25% per year.
