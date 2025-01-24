@@ -2,7 +2,7 @@
 
 Notice: This is a hypothetical project analyzing simulated sales data for Costco.
 
-<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Dashboard.JPG" alt="Dashboard Image" width="400"/>
+<img src="https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis/blob/main/Images/Dashboard.JPG" alt="Dashboard Image" width="1000"/>
 
 [*Here is the link to the dashboard on Tableau*](https://public.tableau.com/app/profile/joshua.kagwanja/viz/Salesanalysis_17303262492110/SalesDashboard)
 
